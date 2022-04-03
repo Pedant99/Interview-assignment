@@ -17,12 +17,12 @@ A basic web application displaying favourite movies of a user with an option to 
 
 #### Solution
 
-The solution is presented through a basic web application which allows a registered user to login in, view thier favourite movies and an option to add, delete the movies. 
+The solution is presented through a basic web application which allows a registered user to login in, view thier favourite movies and an option to delete the movies. 
 
 #### How to Use it ?
 
 [Website](http://broonscots.com)
-Enter the username and password ( ID in the database ) from the database, which will then allow you to view your favourite movies. You can click on 'Browse' to see, choose and add from a list of movies displayed. Then you can click on the Logo which takes you back to the login page. 
+Enter the username and password ( ID in the database ) from the database, which will then allow you to view your favourite movies. You can click on 'Browse' to see a list of movies displayed. 
 
 #### Known Errors and Security Concerns
 
@@ -34,6 +34,7 @@ Enter the username and password ( ID in the database ) from the database, which 
 - Remove button doesnt actually remove the movie from the database. __This brings into question the consistency of the website__ 
 - A basic authentication provided and no authentication provider used for the login system.
 - A very basic website design is done due to the time constraint and other factors 
+- Doesnt implement the add movie functionality
 
 #### Future Improvements
 
