@@ -22,7 +22,7 @@ The solution is presented through a basic web application which allows a registe
 #### How to Use it ?
 
 [Website](http://broonscots.com)
-Enter the username and password ( ID in the database ) from the database, which will then allow you to view your favourite movies. You can click on 'Browse' to see, choose and add from a list of movies displayed. Then You can click on the Logo which takes you back to the login page. 
+Enter the username and password ( ID in the database ) from the database, which will then allow you to view your favourite movies. You can click on 'Browse' to see, choose and add from a list of movies displayed. Then you can click on the Logo which takes you back to the login page. 
 
 #### Known Errors and Security Concerns
 
