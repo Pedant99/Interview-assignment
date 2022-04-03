@@ -42,6 +42,8 @@ Enter the username and password ( ID in the database ) from the database, which 
 - Making the application more interactive and user-friendly
 - Adding unit tests
 - Providing an option to just search for a movie and add it, in addition to a list of movies 
+- Hovering on to the poster to view the details as a dropdown would be interesting
+- A more structured look to the website keeping it consistent
 
 
 
